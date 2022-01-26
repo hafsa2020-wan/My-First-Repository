@@ -1,2 +1,2 @@
-# My-irst-Repository
+# My-First-Repository
 This is my first repository. I am so excited .
